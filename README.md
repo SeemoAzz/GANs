@@ -95,4 +95,4 @@ plt.show()
 - Le modèle est capable de générer des images manuscrites correspondant à des labels donnés.
 - Les images générées ont une qualité dépendante du nombre d'époques d'entraînement.
 
-
+![Output](output.png)  
